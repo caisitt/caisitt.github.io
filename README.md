@@ -1,4 +1,4 @@
-# [caisitt.github.io](https://hoo.be/51wang)
+# [Caisitt.github.io](https://webmy.gitbook.io/webmy-docs/)
 一、汉字词典网：穿越千年的汉字方舟
 网址：https://www.hanzi.my/
 
